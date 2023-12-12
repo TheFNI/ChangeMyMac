@@ -6,8 +6,8 @@ I am new here, so please, don't judge me!
 
 Requirement:
 
-  -Install macchanger
-
     pip install macchanger
+    pip install figlet
+    pip install lolcat
 
 (update soon....)
