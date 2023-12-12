@@ -10,11 +10,7 @@ This project to change your Mac address and reset your Mac address to make you a
 Requirement:
 
     pip install macchanger
-
-
     pip install figlet
-    
-
     pip install lolcat
 
 Tutorial:
