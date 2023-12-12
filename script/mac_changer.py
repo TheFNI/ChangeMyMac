@@ -35,7 +35,7 @@ def rombak():
         subprocess.run(["ifconfig", interface, "down"], check=True)
         subprocess.run(["ifconfig", interface, "hw", "ether", "1a:2b:3c:4d:5e:6f"], check=True)
         subprocess.run(["ifconfig", interface, "up"], check=True)
-        print("Your Mac has changed!")
+        print("Your Mac has been changed!")
         time.sleep(1)
 
     except subprocess.CalledProcessError:
