@@ -11,8 +11,10 @@ Requirement:
 
     pip install macchanger
 
+
     pip install figlet
     
+
     pip install lolcat
 
 Tutorial:
