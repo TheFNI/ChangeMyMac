@@ -8,6 +8,6 @@ Requirement:
 
   -Install macchanger
 
-    Commands: pip install macchanger
+    pip install macchanger
 
 (update soon....)
