@@ -6,6 +6,6 @@ I am new here, so please, don't judge me!
 
 Requirement:
   -Install macchanger
-    root$root:~ pip install macchanger
+    Commands: pip install macchanger
 
 (update soon....)
