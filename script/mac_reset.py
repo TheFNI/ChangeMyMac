@@ -12,7 +12,7 @@ def cek_sudo():
         sys.exit(1)
 
 
-def running():
+def runnning():
     try:
         subprocess.run("clear", shell=True)
         cek_sudo()
@@ -30,4 +30,4 @@ def running():
         print("Your Mac is just like that, lol :v")
 
 
-running()
+runnning()
