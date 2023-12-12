@@ -11,6 +11,8 @@ Requirement:
     pip install lolcat
 
 Tutorial:
-  chmod +x run.py
+  
+    chmod +x run.py
+    sudo ./run.py
 
 (update soon, cause I'm new here....)
