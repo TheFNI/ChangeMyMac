@@ -10,4 +10,7 @@ Requirement:
     pip install figlet
     pip install lolcat
 
-(update soon....)
+Tutorial:
+  chmod +x run.py
+
+(update soon, cause I'm new here....)
