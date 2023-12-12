@@ -5,7 +5,9 @@ I am new here, so please, don't judge me!
 (you have to use sudo command to work this command)
 
 Requirement:
--Install macchanger
-Commands: pip install macchanger
+
+  -Install macchanger
+
+    Commands: pip install macchanger
 
 (update soon....)
