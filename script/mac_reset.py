@@ -3,7 +3,6 @@
 import subprocess
 import os
 import sys
-import time
 
 
 def cek_sudo():
@@ -12,22 +11,21 @@ def cek_sudo():
         sys.exit(1)
 
 
-def runnning():
+def rombak():
     try:
         subprocess.run("clear", shell=True)
         cek_sudo()
         interface = input("your interface > ")
-        
-        # Ignore this, I'm going to fix soon :v
+
         if not subprocess.run(["ifconfig", interface], check=True):
-            print("Something went wrong!")
+            print("Terjadi kesalahan!")
 
         subprocess.run(["ifconfig", interface, "down"], check=True)
         subprocess.run(["macchanger", "-p", interface], check=True)
         subprocess.run(["ifconfig", interface, "up"], check=True)
 
     except subprocess.CalledProcessError:
-        print("Your Mac is just like that, lol :v")
+        print("Your Mac has already reset :v")
 
 
-runnning()
+rombak()
