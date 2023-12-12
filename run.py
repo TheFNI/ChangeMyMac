@@ -29,9 +29,9 @@ def pilihan():
     hmm = input()
 
     if hmm == "1":
-        subprocess.run("sudo ./script/mac_changer.py", shell=True, check=True)
+        subprocess.run("sudo python3 script/mac_changer.py", shell=True, check=True)
     elif hmm == "2":
-        subprocess.run("sudo ./script/mac_reset.py", shell=True, check=True)
+        subprocess.run("sudo python3 script/mac_reset.py", shell=True, check=True)
     else:
         print("Exit!")
 
