@@ -5,7 +5,7 @@ This project to change your Mac address and reset your Mac address to make you a
 
 (btw, if you want to run this, you need a linux, lol :v)
 
-(you have to use sudo command to work this command)
+(you have to use sudo command to work this script! hehe :D)
 
 Requirement:
 
