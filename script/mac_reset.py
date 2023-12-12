@@ -18,7 +18,7 @@ def rombak():
         interface = input("your interface > ")
 
         if not subprocess.run(["ifconfig", interface], check=True):
-            print("Terjadi kesalahan!")
+            print("If you see this error, I'm trying to fix it soon!")
 
         subprocess.run(["ifconfig", interface, "down"], check=True)
         subprocess.run(["macchanger", "-p", interface], check=True)
