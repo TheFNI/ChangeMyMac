@@ -58,10 +58,6 @@ $ git clone https://github.com/TheFNI/ChangeMyMac.git
 ```
 
 ```bash
-$ sudo apt install figlet
-```
-
-```bash
 $ cd I-am-beginner
 ```
 
