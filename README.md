@@ -1,4 +1,4 @@
-# I_am_beginner
+# I-am-beginner
 <h1 align="center">Hello, I'm The FNI</h1>
 <h3 align="center">Beginner programmer from Indonesia. btw, this is my new repository, so forgive me :)</h3>
 
@@ -10,6 +10,8 @@
 
 - :information_source: Requirement! (python3, figlet, lolcat, macchanger)
 
+<h3 align="center">Requirements</h3>
+
 Install Python3:
 ```bash
 $ sudo apt install python3
@@ -18,6 +20,12 @@ $ sudo apt install python3
 Install Python3 Package:
 ```bash
 $ pip install python3-dev
+```
+
+Install Git:
+
+```bash
+$ sudo apt install git
 ```
 
 Install figlet
@@ -33,6 +41,36 @@ $ sudo apt install lolcat
 Install macchanger
 ```bash
 $ sudo apt install macchanger
+```
+
+<h3 align="center">How to use:</h3>
+
+```bash
+$ sudo apt update && sudo apt upgrade && sudo apt full-upgrade
+```
+
+```bash
+$ sudo apt-get update && sudo apt-get upgrade && sudo apt-get full-upgrade
+```
+
+```bash
+$ git clone https://github.com/TheFNI/I-am-beginner.git
+```
+
+```bash
+$ sudo apt install figlet
+```
+
+```bash
+$ cd I-am-beginner
+```
+
+```bash
+$ chmod +x run.py
+```
+
+```bash
+$ ./run.py
 ```
 
 
