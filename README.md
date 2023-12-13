@@ -1,6 +1,6 @@
 # Changing_Mac
 <h1 align="center">Hello, I'm The FNI</h1>
-<h3 align="center">Beginner programmer from Indonesia. btw, this is my new repository, so forgive me :)</h3>
+<h3 align="center">I'm a Beginner programmer from Indonesia. btw, this is my new repository, so forgive me if I made mistake:)</h3>
 
 - 🔭 I’m currently working on [change_Mac](https://github.com/TheFNI/I-am-beginner/)
 
