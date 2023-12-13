@@ -1,29 +1,44 @@
 # I_am_beginner
-I am new here! So please, don't judge me!
+<h1 align="center">Hello, I'm The FNI</h1>
+<h3 align="center">Beginner programmer from Indonesia. btw, this is my new repository, so forgive me :)</h3>
 
-This project to change your Mac address and reset your Mac address to make you anonymous :)
+- 🔭 I’m currently working on [change_Mac](https://github.com/TheFNI/I-am-beginner/)
 
-(btw, if you want to run this, you need a linux, lol :v)
+- 🌱 I’m currently learning **Ethical Hacking**
 
-(you have to use sudo command to work this script! hehe :D)
+- ⚡ Status: **Active**
 
-Requirement:
+- :information_source: Requirement! (python3, figlet, lolcat, macchanger)
+```bash
+$ sudo apt install python3
+```
 
 Install Python3:
-    sudo apt install python3
+```bash
+$ pip install python3-dev
+```
 
-Install macchanger:
-    sudo apt install macchanger
-  
-Install macchanger:
-    sudo apt install figlet
-  
+Install figlet
+```bash
+$ sudo apt install figlet
+```
+
 Install lolcat
-    sudo apt install lolcat
+```bash
+$ sudo apt install lolcat
+```
 
-Tutorial:
-  
-    chmod +x run.py
-    sudo ./run.py
+Install macchanger
+```bash
+$ sudo apt install macchanger
+```
 
-(update soon, cause I'm new here....)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fniap404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fniap404" height="30" width="40" /></a>
+<a href="https://instagram.com/fniap404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fniap404" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
