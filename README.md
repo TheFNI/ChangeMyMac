@@ -1,4 +1,4 @@
-# Changing_Mac
+# Mac Address Changer
 <h1 align="center">Hello, I'm The FNI</h1>
 <h3 align="center">I'm a Beginner programmer from Indonesia. btw, this is my new repository, so forgive me if I made mistake:)</h3>
 
