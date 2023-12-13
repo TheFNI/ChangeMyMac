@@ -1,16 +1,19 @@
 # Mac Address Changer
+ChangeMyMac is a Python script designed to simplify the process of altering the MAC (Media Access Control) address on your device. The MAC address serves as a unique identifier in networks, and by changing it, ChangeMyMac empowers users with added control over the privacy and security of their devices within a network environment.
+
+## About me:
 <h1 align="center">Hello, I'm The FNI</h1>
 <h3 align="center">I'm a Beginner programmer from Indonesia. btw, this is my new repository, so forgive me if I made mistake:)</h3>
 
-- 🔭 I’m currently working on [change_Mac](https://github.com/TheFNI/I-am-beginner/)
+- 🔭 I’m currently working on [ChangeMyMac](https://github.com/TheFNI/I-am-beginner/)
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- ⚡ Status: **Active**
+- ⚡ Status: **Offline**
 
 - :information_source: Requirement! (python3, figlet, lolcat, macchanger)
 
-## Requirements
+## Requirements:
 
 Install Python3:
 ```bash
@@ -58,7 +61,7 @@ $ git clone https://github.com/TheFNI/ChangeMyMac.git
 ```
 
 ```bash
-$ cd I-am-beginner
+$ cd ChangeMyMac
 ```
 
 ```bash
