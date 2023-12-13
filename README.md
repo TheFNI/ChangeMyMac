@@ -9,11 +9,13 @@
 - ⚡ Status: **Active**
 
 - :information_source: Requirement! (python3, figlet, lolcat, macchanger)
+
+Install Python3:
 ```bash
 $ sudo apt install python3
 ```
 
-Install Python3:
+Install Python3 Package:
 ```bash
 $ pip install python3-dev
 ```
