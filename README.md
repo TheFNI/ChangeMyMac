@@ -9,9 +9,9 @@ This project to change your Mac address and reset your Mac address to make you a
 
 Requirement:
 
-    pip install macchanger
-    pip install figlet
-    pip install lolcat
+    sudo apt install macchanger
+    sudo apt install figlet
+    sudo apt install lolcat
 
 Tutorial:
   
