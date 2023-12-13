@@ -1,4 +1,4 @@
-# I-am-beginner
+# Changing_Mac
 <h1 align="center">Hello, I'm The FNI</h1>
 <h3 align="center">Beginner programmer from Indonesia. btw, this is my new repository, so forgive me :)</h3>
 
