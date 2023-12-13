@@ -54,7 +54,7 @@ $ sudo apt-get update && sudo apt-get upgrade && sudo apt-get full-upgrade
 ```
 
 ```bash
-$ git clone https://github.com/TheFNI/I-am-beginner.git
+$ git clone https://github.com/TheFNI/ChangeMyMac.git
 ```
 
 ```bash
