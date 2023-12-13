@@ -10,7 +10,7 @@
 
 - :information_source: Requirement! (python3, figlet, lolcat, macchanger)
 
-<h3 align="center">Requirements</h3>
+## Requirements
 
 Install Python3:
 ```bash
@@ -43,7 +43,7 @@ Install macchanger
 $ sudo apt install macchanger
 ```
 
-<h3 align="center">How to use:</h3>
+## How to use:
 
 ```bash
 $ sudo apt update && sudo apt upgrade && sudo apt full-upgrade
