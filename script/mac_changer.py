@@ -4,6 +4,7 @@ import subprocess
 import os
 import sys
 import time
+import re
 
 
 def cek_sudo():
@@ -35,11 +36,22 @@ def rombak():
         subprocess.run(["ifconfig", interface, "down"], check=True)
         subprocess.run(["ifconfig", interface, "hw", "ether", "1a:2b:3c:4d:5e:6f"], check=True)
         subprocess.run(["ifconfig", interface, "up"], check=True)
-        print("Your Mac has been changed!")
+        print("Your Mac has been changed! Now your mac is ", interface_result(interface))
         time.sleep(1)
 
     except subprocess.CalledProcessError:
         print("Error: Unable to change MAC address")
+
+
+def interface_result(interface):
+    ifconfig_result = subprocess.check_output(["ifconfig", interface], text=True)
+    result = re.search(r"\w\w:\w\w:\w\w:\w\w:\w\w:\w\w", ifconfig_result)
+
+    if result:
+        return result.group(0)
+    else:
+        print("[-] Error")
+    return
 
 
 rombak()
