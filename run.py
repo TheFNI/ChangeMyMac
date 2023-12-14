@@ -16,7 +16,7 @@ def cek_sudo():
 def run():
     cek_sudo()
     lolcat_path = "/usr/games/lolcat"
-    subprocess.run(f"figlet TheFNI | {lolcat_path}", shell=True, check=True)
+    subprocess.run(f"figlet TheFNI | {lolcat_path} -a", shell=True, check=True)
 
     print("[1] Changing Mac")
     print("[2] Resetting Mac")
@@ -26,11 +26,11 @@ def run():
 
 
 def pilihan():
-    hmm = input()
+    choose = input()
 
-    if hmm == "1":
+    if choose == "1":
         subprocess.run("sudo python3 script/mac_changer.py", shell=True, check=True)
-    elif hmm == "2":
+    elif choose == "2":
         subprocess.run("sudo python3 script/mac_reset.py", shell=True, check=True)
     else:
         print("Exit!")
