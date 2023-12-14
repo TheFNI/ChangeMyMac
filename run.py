@@ -3,13 +3,12 @@
 import subprocess
 import os
 import sys
-from colorama import Fore, Back, Style
 
 
 def cek_sudo():
     if os.geteuid() != 0:
         print("Requirement: Sudo!")
-        sys.exit(1)
+        sys.exit(1) 
     return
 
 
