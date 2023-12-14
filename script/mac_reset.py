@@ -17,7 +17,7 @@ def scan_interface():
 
     if subprocess.run(["ifconfig", interface], check=True):
         subprocess.run("clear", check=True)
-        print("Changing your mac....")
+        print("Resetting your mac....")
         time.sleep(3)
     else:
         print(f"your {interface} is not detected!")
