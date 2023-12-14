@@ -69,7 +69,7 @@ $ chmod +x run.py
 ```
 
 ```bash
-$ ./run.py
+$ sudo ./run.py
 ```
 
 
