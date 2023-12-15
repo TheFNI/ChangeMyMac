@@ -15,7 +15,7 @@ def cek_sudo():
 def run():
     cek_sudo()
     lolcat_path = "/usr/games/lolcat"
-    subprocess.run(f"figlet TheFNI | {lolcat_path} -a", shell=True, check=True)
+    subprocess.run(f"figlet ChangeMyMac | {lolcat_path} -a", shell=True, check=True)
 
     print("[1] Changing Mac")
     print("[2] Resetting Mac")
