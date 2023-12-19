@@ -9,7 +9,7 @@ ChangeMyMac is a Python script designed to simplify the process of altering the 
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- ⚡ Status: **Offline**
+- ⚡ Status: **Online**
 
 - :information_source: Requirement! (python3, figlet, lolcat, macchanger)
 
