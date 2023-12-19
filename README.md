@@ -11,7 +11,7 @@ ChangeMyMac is a Python script designed to simplify the process of altering the 
 
 - ⚡ Status: **Online**
 
-- :information_source: Requirement! (python3, figlet, lolcat, macchanger)
+- :information_source: Requirement! (python3, figlet, macchanger)
 
 ## Requirements:
 
@@ -34,11 +34,6 @@ $ sudo apt install git
 Install figlet
 ```bash
 $ sudo apt install figlet
-```
-
-Install lolcat
-```bash
-$ sudo apt install lolcat
 ```
 
 Install macchanger
