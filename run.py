@@ -12,11 +12,22 @@ def cek_sudo():
     return
 
 
+def name():
+    print('''
+  ____ _                            __  __       __  __            
+ / ___| |__   __ _ _ __   __ _  ___|  \/  |_   _|  \/  | __ _  ___ 
+| |   | '_ \ / _` | '_ \ / _` |/ _ \ |\/| | | | | |\/| |/ _` |/ __|
+| |___| | | | (_| | | | | (_| |  __/ |  | | |_| | |  | | (_| | (__ 
+ \____|_| |_|\__,_|_| |_|\__, |\___|_|  |_|\__, |_|  |_|\__,_|\___|
+                         |___/             |___/                   
+''')
+    
+
+
 def run():
     cek_sudo()
     lolcat_path = "/usr/games/lolcat"
-    subprocess.run(f"figlet TheFNI | {lolcat_path} -a", shell=True, check=True)
-
+    name()
     print("[1] Changing Mac")
     print("[2] Resetting Mac")
     print("\n[?] Which one do you want to choose? ", end="")
