@@ -7,7 +7,7 @@ ChangeMyMac is a Python script designed to simplify the process of altering the 
 
 - 🔭 I’m currently working on [ChangeMyMac](https://github.com/TheFNI/I-am-beginner/)
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **Ethical Hacking and more**
 
 - ⚡ Status: **Online**
 
